@@ -15,6 +15,8 @@ public class SampleTest {
 		System.out.println("bye from local");
 
 		System.out.println("bye from git");
+		System.out.println("tyss from git");
+
 
 	}
 }
