@@ -7,7 +7,9 @@ public class SampleTest {
 	@Test
 	public void createAccout(){
 		System.out.println("hello");
+
 		System.out.println("hi from local");
+
 		System.out.println("hi from git");
 	}
 }
